@@ -12,3 +12,12 @@ Features  include:
 -Single Page Application
 -Relation Database
 -etc.
+
+
+
+Team members Github Profile:
+-stormyseliquini
+-chelseamidgette
+-giovannihr
+-ValHalla358
+
